@@ -1,6 +1,6 @@
 import { useState, useEffect, useRef } from "react";
 
-const API = "https://tgbotraze.railway.app"; // замени на свой Railway URL
+const API = "https://tgbotraze-production.up.railway.app"; // замени на свой Railway URL
 
 function Snow() {
   const canvasRef = useRef();
